@@ -1,0 +1,150 @@
+schemeName,category,minAge,maxAge,gender,casteEligible,incomeLimit,bplRequired,purpose,minEducation,employmentStatus,disabilityRequired,schemeType,state,description
+PM Kisan Samman Nidhi,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,200000,No,Farmer Support,No Formal Education,Farmer,No,Central,All,Rs.6000/year direct income support to farmer families
+PM Fasal Bima Yojana,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,500000,No,Farmer Support,No Formal Education,Farmer,No,Central,All,Crop insurance scheme for farmers against natural calamities
+Kisan Credit Card,Farmer Support,18,75,Any,General|OBC|SC|ST|EWS,300000,No,Farmer Support,No Formal Education,Farmer,No,Central,All,Credit card for farmers to meet agricultural expenses
+PM Ujjwala Yojana,Women Welfare,18,60,Female,General|OBC|SC|ST|EWS,100000,Yes,Women Welfare,No Formal Education,Any,No,Central,All,Free LPG connection to BPL women households
+Beti Bachao Beti Padhao,Women Welfare,0,10,Female,General|OBC|SC|ST|EWS,300000,No,Education,No Formal Education,Student,No,Central,All,Scheme for girl child welfare and education
+PM Matru Vandana Yojana,Women Welfare,19,40,Female,General|OBC|SC|ST|EWS,200000,No,Women Welfare,No Formal Education,Any,No,Central,All,Rs.5000 maternity benefit for pregnant and lactating mothers
+Sukanya Samriddhi Yojana,Women Welfare,0,10,Female,General|OBC|SC|ST|EWS,1000000,No,Education,No Formal Education,Student,No,Central,All,Savings scheme for girl child education and marriage
+Janani Suraksha Yojana,Health,14,45,Female,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,Cash assistance to poor pregnant women for institutional delivery
+PM Surakshit Matritva Abhiyan,Health,14,45,Female,General|OBC|SC|ST|EWS,200000,No,Health,No Formal Education,Any,No,Central,All,Free antenatal care on 9th of every month at govt health facilities
+Ayushman Bharat PM-JAY,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,Rs.5 lakh health insurance cover per family per year
+Rashtriya Swasthya Bima Yojana,Health,5,65,Any,SC|ST|OBC|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,Health insurance for BPL families up to Rs.30000
+National Scholarship Portal Pre-Matric,Education,0,18,Any,SC|ST|OBC|EWS,250000,No,Education,10th,Student,No,Central,All,Scholarship for pre-matric students from minority/SC/ST communities
+National Scholarship Portal Post-Matric,Education,14,30,Any,SC|ST|OBC|EWS,250000,No,Education,10th,Student,No,Central,All,Scholarship for post-matric students from minority/SC/ST communities
+Central Sector Scholarship,Education,17,25,Any,General|OBC|SC|ST|EWS,450000,No,Education,12th,Student,No,Central,All,Merit-based scholarship for college students
+PM Scholarship Scheme for WARB,Education,18,25,Any,General|OBC|SC|ST|EWS,600000,No,Education,12th,Student,No,Central,All,Scholarship for children of ex-servicemen and coast guard
+Dr. Ambedkar Post Matric Scholarship,Education,14,30,Any,OBC|EWS,300000,No,Education,10th,Student,No,Central,All,Post-matric scholarship for OBC and EWS students
+Scholarship for SC Students,Education,14,30,Any,SC,250000,No,Education,10th,Student,No,Central,All,Post-matric scholarship for SC students
+Scholarship for ST Students,Education,14,30,Any,ST,250000,No,Education,10th,Student,No,Central,All,Post-matric scholarship for ST students
+PMEGP,Employment,18,35,Any,General|OBC|SC|ST|EWS,500000,No,Employment,10th,Unemployed|Self Employed,No,Central,All,Subsidy for setting up new micro enterprises
+Stand Up India,Employment,18,50,Female,SC|ST,1000000,No,Employment,No Formal Education,Unemployed|Self Employed,No,Central,All,Loans from Rs.10 lakh to Rs.1 crore for SC/ST and women entrepreneurs
+MUDRA Yojana Shishu,Employment,18,60,Any,General|OBC|SC|ST|EWS,500000,No,Employment,No Formal Education,Self Employed|Unemployed,No,Central,All,Loans up to Rs.50000 for small businesses
+MUDRA Yojana Kishor,Employment,18,60,Any,General|OBC|SC|ST|EWS,1000000,No,Employment,No Formal Education,Self Employed,No,Central,All,Loans Rs.50000 to Rs.5 lakh for small businesses
+MUDRA Yojana Tarun,Employment,18,60,Any,General|OBC|SC|ST|EWS,2000000,No,Employment,No Formal Education,Self Employed,No,Central,All,Loans Rs.5 lakh to Rs.10 lakh for small businesses
+PMSBY Suraksha Bima Yojana,Health,18,70,Any,General|OBC|SC|ST|EWS,300000,No,Health,No Formal Education,Any,No,Central,All,Rs.2 lakh accidental death/disability insurance at Rs.20/year premium
+PMJJBY Jeevan Jyoti Bima,Health,18,50,Any,General|OBC|SC|ST|EWS,300000,No,Health,No Formal Education,Any,No,Central,All,Rs.2 lakh life insurance cover at Rs.436/year premium
+Atal Pension Yojana,Pension,18,40,Any,General|OBC|SC|ST|EWS,500000,No,Pension,No Formal Education,Any,No,Central,All,Guaranteed pension of Rs.1000-5000/month after age 60
+National Old Age Pension Scheme,Pension,60,100,Any,SC|ST|OBC|EWS,100000,Yes,Pension,No Formal Education,Any,No,Central,All,Monthly pension for destitute elderly persons
+Indira Gandhi National Widow Pension,Pension,40,79,Female,SC|ST|OBC|EWS,100000,Yes,Pension,No Formal Education,Any,No,Central,All,Monthly pension for BPL widows aged 40-79
+Indira Gandhi National Disability Pension,Pension,18,79,Any,General|OBC|SC|ST|EWS,100000,Yes,Pension,No Formal Education,Any,Yes,Central,All,Monthly pension for severely disabled BPL persons
+Skill India PMKVY,Employment,15,45,Any,General|OBC|SC|ST|EWS,300000,No,Employment,No Formal Education,Unemployed|Student,No,Central,All,Free skill training and certification with stipend
+NRLM Deen Dayal Upadhyaya,Employment,18,60,Any,General|OBC|SC|ST|EWS,150000,Yes,Employment,No Formal Education,Unemployed,No,Central,All,SHG-based livelihood support for rural poor women
+PM Awas Yojana Gramin,Housing,18,70,Any,SC|ST|OBC|EWS,100000,Yes,Employment,No Formal Education,Any,No,Central,All,Housing assistance for rural BPL families
+PM Awas Yojana Urban,Housing,21,70,Any,General|OBC|SC|ST|EWS,300000,No,Employment,No Formal Education,Any,No,Central,All,Subsidized housing loan for urban poor
+MGNREGA,Employment,18,100,Any,General|OBC|SC|ST|EWS,150000,No,Employment,No Formal Education,Unemployed,No,Central,All,100 days guaranteed wage employment in rural areas
+National Food Security Act PDS,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,Subsidized food grains through ration card
+PM Garib Kalyan Anna Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,Free 5 kg food grain per person per month
+Annapurna Scheme,Health,65,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,Central,All,10 kg free food grain per month for destitute senior citizens
+National Disability Scholarship,Education,5,25,Any,General|OBC|SC|ST|EWS,250000,No,Education,No Formal Education,Student,Yes,Central,All,Scholarship for differently abled students at all levels
+ADIP Scheme Assistive Devices,Health,0,100,Any,General|OBC|SC|ST|EWS,150000,No,Health,No Formal Education,Any,Yes,Central,All,Free assistive devices for persons with disabilities
+Divyangjan Sports Scholarships,Employment,10,25,Any,General|OBC|SC|ST|EWS,600000,No,Employment,No Formal Education,Student,Yes,Central,All,Sports scholarship for differently abled athletes
+Senior Citizen Savings Scheme,Pension,60,100,Any,General|OBC|SC|ST|EWS,5000000,No,Pension,No Formal Education,Any,No,Central,All,High interest savings scheme for senior citizens above 60
+Varishtha Pension Bima Yojana,Pension,60,100,Any,General|OBC|SC|ST|EWS,5000000,No,Pension,No Formal Education,Any,No,Central,All,Guaranteed pension of 8 percent per annum for senior citizens
+NMMS Scholarship,Education,13,18,Any,General|OBC|SC|ST|EWS,350000,No,Education,10th,Student,No,Central,All,Rs.12000/year scholarship to prevent school dropout
+Startup India Seed Fund,Employment,21,45,Any,General|OBC|SC|ST|EWS,5000000,No,Employment,Graduate,Self Employed,No,Central,All,Financial assistance for startups at ideation stage
+PM Jan Dhan Yojana,Health,10,65,Any,General|OBC|SC|ST|EWS,200000,No,Health,No Formal Education,Any,No,Central,All,Zero balance bank account with Rs.2 lakh accident insurance
+E-Shram Card Benefits,Employment,16,59,Any,General|OBC|SC|ST|EWS,300000,No,Employment,No Formal Education,Unemployed|Self Employed|Farmer,No,Central,All,Rs.2 lakh insurance for unorganized sector workers
+National Apprenticeship Promotion,Employment,14,25,Any,General|OBC|SC|ST|EWS,400000,No,Employment,10th,Student|Unemployed,No,Central,All,Stipend support for apprentices in industry
+MSME Technology Upgradation,Employment,21,60,Any,General|OBC|SC|ST|EWS,2000000,No,Employment,No Formal Education,Self Employed,No,Central,All,Subsidy for technology upgradation of MSME units
+PM Scholarship for OBC Students,Education,11,20,Any,OBC,150000,No,Education,10th,Student,No,Central,All,Pre and post matric scholarship for OBC students
+Agneepath Scheme,Employment,17,21,Any,General|OBC|SC|ST|EWS,1000000,No,Employment,10th,Unemployed,No,Central,All,Short-term military service with Seva Nidhi package
+Maharashtra Swadhar Yojana,Education,16,25,Any,SC|ST,250000,No,Education,10th,Student,No,State,Maharashtra,Financial assistance for SC/ST students for higher education expenses
+Mahatma Phule Jan Arogya Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,State,Maharashtra,Health coverage up to Rs.1.5 lakh for BPL families in Maharashtra
+Maharashtra Lek Ladki Yojana,Women Welfare,0,18,Female,General|OBC|SC|ST|EWS,800000,No,Women Welfare,No Formal Education,Student,No,State,Maharashtra,Financial assistance for girl child from birth to higher education
+Maharashtra Annasaheb Patil Loan,Employment,18,45,Any,General|EWS,800000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Maharashtra,Interest-free loans for unemployed youth and entrepreneurs
+Maharashtra Rajshri Shahu Scholarship,Education,18,30,Any,OBC,600000,No,Education,12th,Student,No,State,Maharashtra,Scholarship for OBC students in professional courses
+Maharashtra Padho Pardesh Scheme,Education,18,35,Any,OBC|EWS,600000,No,Education,Graduate,Student,No,State,Maharashtra,Interest subsidy on education loans for minority students abroad
+Maharashtra Sanjay Gandhi Niradhar Yojana,Pension,18,65,Any,General|OBC|SC|ST|EWS,21000,Yes,Pension,No Formal Education,Unemployed,No,State,Maharashtra,Monthly financial assistance for destitute persons in Maharashtra
+Maharashtra Indira Gandhi Vayoshri Yojana,Health,60,100,Any,SC|ST|OBC|EWS,200000,No,Health,No Formal Education,Any,Yes,State,Maharashtra,Assistive devices for senior citizens with disability in Maharashtra
+Uttar Pradesh Kisan Karj Rahat Yojana,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,300000,No,Farmer Support,No Formal Education,Farmer,No,State,Uttar Pradesh,One-time farm loan waiver up to Rs.1 lakh for UP farmers
+UP Mukhyamantri Kanya Sumangala Yojana,Women Welfare,0,21,Female,General|OBC|SC|ST|EWS,300000,No,Women Welfare,No Formal Education,Student,No,State,Uttar Pradesh,Financial support at key life stages for girl child in UP
+UP Scholarship Scheme,Education,11,30,Any,SC|ST|OBC|EWS,200000,No,Education,10th,Student,No,State,Uttar Pradesh,Pre and post matric scholarships for weaker sections in UP
+UP Pension Scheme Vridha,Pension,60,100,Any,General|OBC|SC|ST|EWS,46080,Yes,Pension,No Formal Education,Any,No,State,Uttar Pradesh,Rs.500/month old age pension for BPL elderly in UP
+UP Nirashrit Mahila Pension,Pension,18,60,Female,General|OBC|SC|ST|EWS,46080,Yes,Pension,No Formal Education,Any,No,State,Uttar Pradesh,Rs.500/month pension for destitute women in UP
+UP Vishwakarma Shram Samman Yojana,Employment,18,60,Any,General|OBC|SC|ST|EWS,200000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Uttar Pradesh,Skill training and toolkit grant for artisans and traditional workers in UP
+UP Mukhyamantri Yuva Swarozgar Yojana,Employment,18,40,Any,General|OBC|SC|ST|EWS,300000,No,Employment,10th,Unemployed,No,State,Uttar Pradesh,Loans up to Rs.25 lakh for youth self-employment in UP
+Rajasthan Aapki Beti Scheme,Education,0,18,Female,SC|ST,150000,Yes,Education,No Formal Education,Student,No,State,Rajasthan,Annual grant for girl students from BPL SC/ST families in Rajasthan
+Rajasthan Mukhyamantri Chiranjeevi Swasthya Bima,Health,0,100,Any,General|OBC|SC|ST|EWS,800000,No,Health,No Formal Education,Any,No,State,Rajasthan,Cashless health coverage up to Rs.25 lakh per family in Rajasthan
+Rajasthan Free Laptop Yojana,Education,14,18,Any,General|OBC|SC|ST|EWS,100000,No,Education,10th,Student,No,State,Rajasthan,Free laptops for meritorious Class 8 and Class 10 students in Rajasthan
+Rajasthan Shubh Shakti Yojana,Women Welfare,18,55,Female,General|OBC|SC|ST|EWS,120000,No,Women Welfare,No Formal Education,Farmer|Self Employed|Unemployed,No,State,Rajasthan,Rs.55000 assistance to unmarried daughters and women workers in Rajasthan
+Rajasthan Indira Gandhi Matritva Poshan Yojana,Women Welfare,19,45,Female,SC|ST,200000,Yes,Women Welfare,No Formal Education,Any,No,State,Rajasthan,Rs.6000 in 5 installments for pregnant women from SC/ST in Rajasthan
+Rajasthan Vishwakarma Kamgar Kalyan Yojana,Employment,18,60,Any,General|OBC|SC|ST|EWS,200000,No,Employment,No Formal Education,Self Employed,No,State,Rajasthan,Toolkit and training support for traditional artisans in Rajasthan
+Tamil Nadu Amma Two Wheeler Scheme,Women Welfare,18,40,Female,SC|ST|OBC|EWS,200000,No,Women Welfare,No Formal Education,Salaried|Self Employed,No,State,Tamil Nadu,50% subsidy on two-wheelers for working women in Tamil Nadu
+Tamil Nadu Moovalur Ramamirtham Ammaiyar Scheme,Education,16,21,Female,General|OBC|SC|ST|EWS,72000,No,Education,10th,Student,No,State,Tamil Nadu,Rs.1000/month for girl students staying in hostels in Tamil Nadu
+Tamil Nadu CM's Uzhavar Pathukappu Thittam,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,300000,No,Farmer Support,No Formal Education,Farmer,No,State,Tamil Nadu,Crop insurance and financial relief for farmers in Tamil Nadu
+Tamil Nadu Kalaignar Magalir Urimai Thittam,Women Welfare,21,60,Female,General|OBC|SC|ST|EWS,200000,No,Women Welfare,No Formal Education,Any,No,State,Tamil Nadu,Rs.1000/month financial assistance for women heads of households in TN
+Tamil Nadu New Entrepreneur cum Enterprise Development Scheme,Employment,21,35,Any,General|OBC|SC|ST|EWS,1000000,No,Employment,Graduate,Unemployed|Self Employed,No,State,Tamil Nadu,Loans and training for new entrepreneurs in Tamil Nadu
+Tamil Nadu Dr Muthulakshmi Maternity Benefit Scheme,Health,19,45,Female,General|OBC|SC|ST|EWS,100000,No,Health,No Formal Education,Any,No,State,Tamil Nadu,Rs.18000 maternity assistance for first two live births in Tamil Nadu
+Karnataka Rajiv Gandhi SC/ST Housing Scheme,Housing,21,60,Any,SC|ST,100000,Yes,Employment,No Formal Education,Any,No,State,Karnataka,Free houses for SC/ST families below poverty line in Karnataka
+Karnataka Vidya Siri Scholarship,Education,15,30,Any,OBC,100000,No,Education,10th,Student,No,State,Karnataka,Scholarship for OBC students in Karnataka
+Karnataka Mukhyamantri Sandhya Suraksha Yojana,Pension,60,100,Any,General|OBC|SC|ST|EWS,300000,No,Pension,No Formal Education,Any,No,State,Karnataka,Rs.600-800/month pension for elderly in Karnataka
+Karnataka Devaraj Urs Backward Class Dev Corporation Loan,Employment,18,55,Any,OBC|EWS,300000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Karnataka,Low-interest loans for OBC self-employment in Karnataka
+Karnataka Arundhathi Scheme,Women Welfare,18,35,Female,SC,300000,No,Women Welfare,No Formal Education,Any,No,State,Karnataka,4 grams free gold for SC brides at the time of marriage in Karnataka
+Karnataka Yuva Nidhi Scheme,Employment,21,30,Any,General|OBC|SC|ST|EWS,200000,No,Employment,Graduate,Unemployed,No,State,Karnataka,Rs.3000/month for graduates and Rs.1500 for diploma holders unemployed in Karnataka
+West Bengal Kanyashree Prakalpa,Women Welfare,13,18,Female,General|OBC|SC|ST|EWS,120000,No,Education,No Formal Education,Student,No,State,West Bengal,Annual Rs.1000 and Rs.25000 lump sum for girl students in West Bengal
+West Bengal Rupashree Prakalpa,Women Welfare,18,25,Female,General|OBC|SC|ST|EWS,150000,No,Women Welfare,No Formal Education,Any,No,State,West Bengal,Rs.25000 one-time grant for marriage of women from low-income families in WB
+West Bengal Swasthya Sathi,Health,0,100,Any,General|OBC|SC|ST|EWS,150000,No,Health,No Formal Education,Any,No,State,West Bengal,Health coverage up to Rs.5 lakh per family per year in West Bengal
+West Bengal Yuvashree Prakalpa,Employment,18,45,Any,General|OBC|SC|ST|EWS,200000,No,Employment,No Formal Education,Unemployed,No,State,West Bengal,Rs.1500/month for unemployed youth registered with employment exchange in WB
+West Bengal Krishak Bandhu Scheme,Farmer Support,18,60,Any,General|OBC|SC|ST|EWS,300000,No,Farmer Support,No Formal Education,Farmer,No,State,West Bengal,Rs.10000/year farm assistance and Rs.2 lakh death benefit for farmers in WB
+Gujarat Mukhyamantri Mahila Utkarsh Yojana,Women Welfare,18,55,Female,General|OBC|SC|ST|EWS,300000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Gujarat,Zero interest loans up to Rs.1 lakh for women SHGs in Gujarat
+Gujarat Namo Saraswati Vigyan Scholarship,Education,11,18,Female,General|OBC|SC|ST|EWS,250000,No,Education,10th,Student,No,State,Gujarat,Rs.10000-15000/year scholarship for girls studying science in Gujarat
+Gujarat Kisan Suryoday Yojana,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,400000,No,Farmer Support,No Formal Education,Farmer,No,State,Gujarat,3-phase electricity connection for daytime irrigation to farmers in Gujarat
+Gujarat Manav Garima Yojana,Employment,18,60,Any,SC,100000,Yes,Employment,No Formal Education,Self Employed|Unemployed,No,State,Gujarat,Toolkit and financial assistance for SC artisans and small workers in Gujarat
+Gujarat Viklang Sahay Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,150000,No,Health,No Formal Education,Any,Yes,State,Gujarat,Assistive aids and appliances for persons with disability in Gujarat
+Madhya Pradesh Ladli Laxmi Yojana,Women Welfare,0,21,Female,General|OBC|SC|ST|EWS,300000,No,Women Welfare,No Formal Education,Student,No,State,Madhya Pradesh,Financial benefits in installments totaling Rs.1.18 lakh for girl child in MP
+Madhya Pradesh Mukhyamantri Teerth Darshan Yojana,Pension,60,100,Any,General|OBC|SC|ST|EWS,800000,No,Pension,No Formal Education,Any,No,State,Madhya Pradesh,Free pilgrimage to senior citizens above 60 in Madhya Pradesh
+Madhya Pradesh Jan Kalyan Sambal Yojana,Employment,18,60,Any,General|OBC|SC|ST|EWS,100000,Yes,Employment,No Formal Education,Unemployed|Farmer|Self Employed,No,State,Madhya Pradesh,Multiple welfare benefits for unorganized workers in MP
+Madhya Pradesh Sikho Kamao Yojana,Employment,18,29,Any,General|OBC|SC|ST|EWS,300000,No,Employment,10th,Unemployed,No,State,Madhya Pradesh,Rs.8000-10000/month stipend during vocational training in MP
+Madhya Pradesh Krishi Yantra Anudan Yojana,Farmer Support,18,65,Any,General|OBC|SC|ST|EWS,400000,No,Farmer Support,No Formal Education,Farmer,No,State,Madhya Pradesh,50% subsidy on agricultural machinery for farmers in MP
+Bihar Mukhyamantri Kanya Utthan Yojana,Women Welfare,0,25,Female,General|OBC|SC|ST|EWS,150000,No,Education,No Formal Education,Student,No,State,Bihar,Financial incentive from birth to graduation for girl child in Bihar
+Bihar Student Credit Card Scheme,Education,18,25,Any,General|OBC|SC|ST|EWS,450000,No,Education,12th,Student,No,State,Bihar,Education loan up to Rs.4 lakh at 4% interest for higher studies in Bihar
+Bihar Mukhyamantri Vriddha Pension,Pension,60,100,Any,General|OBC|SC|ST|EWS,60000,Yes,Pension,No Formal Education,Any,No,State,Bihar,Rs.400/month old age pension for BPL senior citizens in Bihar
+Bihar Mukhyamantri Gram Parivahan Yojana,Employment,21,40,Any,SC|ST|OBC|EWS,100000,No,Employment,No Formal Education,Unemployed|Self Employed,No,State,Bihar,50% subsidy on 4-wheeler vehicle purchase for SC/ST/EWS in Bihar
+Kerala Karunya Health Scheme,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,State,Kerala,Medical assistance for BPL families for serious illness treatment in Kerala
+Kerala Snehapoorvam Scholarship,Education,0,18,Any,General|OBC|SC|ST|EWS,100000,Yes,Education,No Formal Education,Student,No,State,Kerala,Scholarship for children of widows and destitute in Kerala
+Kerala Ashraya Scheme,Pension,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Pension,No Formal Education,Any,No,State,Kerala,Comprehensive support for destitute families in Kerala
+Kerala Kudumbashree Mission,Employment,18,55,Female,General|OBC|SC|ST|EWS,150000,No,Employment,No Formal Education,Unemployed|Self Employed,No,State,Kerala,Microfinance and livelihood support for women through SHGs in Kerala
+Kerala Micro Enterprises Development Programme,Employment,18,50,Any,General|OBC|SC|ST|EWS,500000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Kerala,Financial and technical support for micro enterprise development in Kerala
+Andhra Pradesh YSR Rythu Bharosa,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,500000,No,Farmer Support,No Formal Education,Farmer,No,State,Andhra Pradesh,Rs.13500/year investment support for farmers and farm labourers in AP
+Andhra Pradesh YSR Aarogyasri,Health,0,100,Any,General|OBC|SC|ST|EWS,500000,No,Health,No Formal Education,Any,No,State,Andhra Pradesh,Comprehensive healthcare up to Rs.5 lakh per year for families in AP
+Andhra Pradesh Jagananna Ammavodi,Education,0,20,Any,General|OBC|SC|ST|EWS,500000,No,Education,No Formal Education,Student,No,State,Andhra Pradesh,Rs.15000/year to mothers to send children to school in AP
+Andhra Pradesh YSR Pension Kanuka,Pension,45,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Pension,No Formal Education,Any,No,State,Andhra Pradesh,Monthly pension of Rs.2750 for eligible beneficiaries in AP
+Andhra Pradesh YSR Cheyutha,Women Welfare,45,60,Female,SC|ST|OBC|EWS,100000,Yes,Women Welfare,No Formal Education,Any,No,State,Andhra Pradesh,Rs.18750/year financial support for women from weaker sections in AP
+Telangana Kalyana Lakshmi Shaadi Mubarak,Women Welfare,18,35,Female,SC|ST|OBC|EWS,200000,No,Women Welfare,No Formal Education,Any,No,State,Telangana,Rs.1 lakh marriage assistance for brides from SC/ST/OBC/Minority in Telangana
+Telangana Rythu Bandhu,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,1000000,No,Farmer Support,No Formal Education,Farmer,No,State,Telangana,Rs.10000/year per acre investment support for farmers in Telangana
+Telangana Aarogyasri Health Care Trust,Health,0,100,Any,SC|ST|OBC|EWS,500000,No,Health,No Formal Education,Any,No,State,Telangana,Tertiary healthcare coverage for low income families in Telangana
+Telangana KCR Kit,Women Welfare,19,45,Female,General|OBC|SC|ST|EWS,200000,No,Health,No Formal Education,Any,No,State,Telangana,Baby care kit and Rs.12000 for mothers at time of delivery in Telangana
+Punjab Ashirwad Scheme,Women Welfare,18,35,Female,General|OBC|SC|ST|EWS,180000,No,Women Welfare,No Formal Education,Any,No,State,Punjab,Rs.51000 marriage grant for daughters of BPL families in Punjab
+Punjab Ghar Ghar Rozgar Yojana,Employment,18,35,Any,General|OBC|SC|ST|EWS,400000,No,Employment,10th,Unemployed,No,State,Punjab,Job fair and placement assistance for unemployed youth in Punjab
+Punjab Mukhyamantri Sarbat Sehat Bima Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,400000,No,Health,No Formal Education,Any,No,State,Punjab,Cashless health insurance up to Rs.5 lakh per year for families in Punjab
+Punjab Bhagat Puran Singh Sehat Bima Yojana,Health,5,75,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,State,Punjab,Hospitalization benefit for BPL families in Punjab
+Haryana Kisan Mitra Yojana,Farmer Support,18,65,Any,General|OBC|SC|ST|EWS,200000,No,Farmer Support,No Formal Education,Farmer,No,State,Haryana,Additional financial support and advisory services to farmers in Haryana
+Haryana Mukhyamantri Vivah Shagun Yojana,Women Welfare,18,35,Female,SC|ST|OBC|EWS,100000,Yes,Women Welfare,No Formal Education,Any,No,State,Haryana,Rs.41000-51000 marriage grant for daughters of BPL/SC/ST families in Haryana
+Haryana Saksham Yojana,Employment,21,35,Any,General|OBC|SC|ST|EWS,300000,No,Employment,Graduate,Unemployed,No,State,Haryana,Rs.900-3000/month honorarium for educated unemployed youth in Haryana
+Haryana Chirayu Arogya Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,180000,No,Health,No Formal Education,Any,No,State,Haryana,Cashless medical treatment up to Rs.5 lakh for eligible families in Haryana
+Odisha KALIA Scheme,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,200000,No,Farmer Support,No Formal Education,Farmer,No,State,Odisha,Rs.10000/year financial assistance for small and marginal farmers in Odisha
+Odisha Biju Swasthya Kalyan Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,State,Odisha,Free health coverage up to Rs.5-10 lakh per family per year in Odisha
+Odisha Madhu Babu Pension Yojana,Pension,60,100,Any,General|OBC|SC|ST|EWS,60000,Yes,Pension,No Formal Education,Any,No,State,Odisha,Rs.300-700/month pension for elderly and disabled BPL in Odisha
+Odisha Mamata Maternity Benefit Scheme,Women Welfare,19,45,Female,General|OBC|SC|ST|EWS,200000,No,Health,No Formal Education,Any,No,State,Odisha,Rs.5000 in two installments for pregnant women in Odisha
+Jharkhand Mukhyamantri Sukanya Yojana,Women Welfare,0,18,Female,General|OBC|SC|ST|EWS,72000,Yes,Women Welfare,No Formal Education,Student,No,State,Jharkhand,Financial assistance at various stages for girl child in BPL families in Jharkhand
+Jharkhand Mukhyamantri Protsahan Yojana,Employment,21,35,Any,General|OBC|SC|ST|EWS,300000,No,Employment,Graduate,Unemployed,No,State,Jharkhand,Rs.5000/month for unemployed graduates while job seeking in Jharkhand
+Jharkhand Savitri Bai Phule Kishori Samridhi Yojana,Education,11,18,Female,General|OBC|SC|ST|EWS,300000,No,Education,No Formal Education,Student,No,State,Jharkhand,Monetary incentives for girls from class 8 to 12 in Jharkhand
+Chhattisgarh Mukhyamantri Kanya Vivah Yojana,Women Welfare,18,35,Female,General|OBC|SC|ST|EWS,100000,Yes,Women Welfare,No Formal Education,Any,No,State,Chhattisgarh,Rs.25000 marriage assistance for daughters of BPL families in Chhattisgarh
+Chhattisgarh Dr. Khubchand Baghel Swasthya Sahayata Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,100000,Yes,Health,No Formal Education,Any,No,State,Chhattisgarh,Cashless health coverage up to Rs.5-20 lakh for BPL in Chhattisgarh
+Chhattisgarh Rajiv Gandhi Kisan Nyay Yojana,Farmer Support,18,70,Any,General|OBC|SC|ST|EWS,400000,No,Farmer Support,No Formal Education,Farmer,No,State,Chhattisgarh,Input subsidy per acre for major crops to farmers in Chhattisgarh
+Himachal Pradesh Mukhyamantri Swavlamban Yojana,Employment,18,45,Any,General|OBC|SC|ST|EWS,500000,No,Employment,10th,Unemployed|Self Employed,No,State,Himachal Pradesh,25-35% capital subsidy for new enterprises in Himachal Pradesh
+Himachal Pradesh Sahara Yojana,Health,0,100,Any,General|OBC|SC|ST|EWS,400000,No,Health,No Formal Education,Any,No,State,Himachal Pradesh,Rs.2000/month financial support for patients with serious diseases in HP
+Himachal Pradesh Beti Hai Anmol Yojana,Women Welfare,0,18,Female,General|OBC|SC|ST|EWS,100000,Yes,Education,No Formal Education,Student,No,State,Himachal Pradesh,Rs.10000 deposit at birth and annual scholarship for girl child in HP
+Uttarakhand Mukhyamantri Swarojgar Yojana,Employment,18,45,Any,General|OBC|SC|ST|EWS,600000,No,Employment,No Formal Education,Unemployed|Self Employed,No,State,Uttarakhand,Loans and subsidy for self-employment ventures in Uttarakhand
+Uttarakhand Vatsalya Yojana,Women Welfare,0,18,Any,General|OBC|SC|ST|EWS,200000,No,Women Welfare,No Formal Education,Student,No,State,Uttarakhand,Financial and social support for orphan and semi-orphan children in Uttarakhand
+Assam Orunodoi Scheme,Women Welfare,18,60,Female,General|OBC|SC|ST|EWS,200000,No,Women Welfare,No Formal Education,Any,No,State,Assam,Rs.830-1250/month direct transfer to women of low-income families in Assam
+Assam Arogya Nidhi,Health,0,100,Any,General|OBC|SC|ST|EWS,200000,No,Health,No Formal Education,Any,No,State,Assam,Financial assistance for serious illness treatment for BPL families in Assam
+Assam Mukhyamantri Nijut Moina Scheme,Education,18,30,Female,General|OBC|SC|ST|EWS,200000,No,Education,12th,Student,No,State,Assam,Monthly stipend for girl students enrolled in higher education in Assam
+Meghalaya Megha Health Insurance Scheme,Health,0,100,Any,General|OBC|SC|ST|EWS,150000,Yes,Health,No Formal Education,Any,No,State,Meghalaya,Health insurance for BPL families in Meghalaya
+Tripura Mukhyamantri Tyer Prakalpa,Employment,21,45,Any,General|OBC|SC|ST|EWS,300000,No,Employment,No Formal Education,Self Employed|Unemployed,No,State,Tripura,Subsidized loan for self-employment and enterprise in Tripura
+Goa Dayanand Social Security Scheme,Pension,60,100,Any,General|OBC|SC|ST|EWS,300000,No,Pension,No Formal Education,Any,No,State,Goa,Monthly pension to senior citizens above 60 in Goa
+Goa Ladli Laxmi Scheme,Women Welfare,0,18,Female,General|OBC|SC|ST|EWS,300000,No,Women Welfare,No Formal Education,Student,No,State,Goa,Financial assistance for girl children from low-income families in Goa
+Delhi Mukhyamantri Mahila Samman Yojana,Women Welfare,18,60,Female,General|OBC|SC|ST|EWS,300000,No,Women Welfare,No Formal Education,Any,No,State,Delhi,Rs.1000/month financial assistance for women residents of Delhi
+Delhi Rojgar Bazaar Scheme,Employment,18,45,Any,General|OBC|SC|ST|EWS,500000,No,Employment,10th,Unemployed,No,State,Delhi,Online job portal and placement assistance for unemployed in Delhi
+Delhi Mukhyamantri Free Coaching Scheme,Education,17,25,Any,SC|ST|OBC|EWS,600000,No,Education,12th,Student,No,State,Delhi,Free coaching for competitive exams for SC/ST/OBC/EWS students in Delhi
